@@ -24,9 +24,11 @@
 9. 更多详情，欢迎大家访问[西柚官网](https://xy.zkbhj.com)查询
 
 ## 部分频道展示   
-<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E6%B8%AF%E6%BE%B3%E5%8F%B0.png" width="300">
-<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E7%89%B9%E8%89%B2%E5%8F%B0.png" width="300">
-<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E6%B5%B7%E5%A4%96%E5%8F%B0.png" width="300">
+<p align="center">
+<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E6%B8%AF%E6%BE%B3%E5%8F%B0.png" width="370">
+<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E7%89%B9%E8%89%B2%E5%8F%B0.png" width="370">
+<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E6%B5%B7%E5%A4%96%E5%8F%B0.png" width="370">
+</p>
 
 ## 联系开发者
 <img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%BC%80%E5%8F%91%E8%80%85%E5%BE%AE%E4%BF%A1.png">
