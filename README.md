@@ -25,9 +25,9 @@
 
 ## 部分频道展示   
 <p align="center">
-<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E6%B8%AF%E6%BE%B3%E5%8F%B0.png" width="370">
-<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E7%89%B9%E8%89%B2%E5%8F%B0.png" width="370">
-<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E6%B5%B7%E5%A4%96%E5%8F%B0.png" width="370">
+<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E6%B8%AF%E6%BE%B3%E5%8F%B0.png" width="310">
+<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E7%89%B9%E8%89%B2%E5%8F%B0.png" width="310">
+<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E6%B5%B7%E5%A4%96%E5%8F%B0.png" width="310">
 </p>
 
 ## 联系开发者
