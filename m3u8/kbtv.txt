@@ -1,0 +1,4 @@
+凯冰卫视综合频道（KBTV-1）,http://live.jiashuguan.com/hls/kbtv1/index.m3u8
+凯冰卫视综合频道（KBTV-1）,rtmp://live.jiashuguan.com:1935/live/kbtv1
+凯冰卫视交易频道（KBTV-2）,http://live.jiashuguan.com:193/hls/kbtv2/index.m3u8
+凯冰卫视交易频道（KBTV-2）,rtmp://live.jiashuguan.com:1935/live/kbtv2
