@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://xy.zkbhj.com?fr=github_readme" target="_blank"><img src="https://qiniu.zkbhj.com/xy/images/web-logo.png" width="186" height="53" alt="kbtv logo"></a>
+  <a href="https://xy.zkbhj.com?fr=github_readme" target="_blank"><img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/KBTV-GITHUB-LOGO.png" width="370" height="297" alt="kbtv logo"></a>
 </p>
 
 # 西柚电视直播 - 一款超级私人1v1定制化电视直播软件
