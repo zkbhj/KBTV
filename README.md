@@ -25,9 +25,9 @@
 
 ## 部分频道展示   
 <p align="center">
-<img src="https://qiniu.zkbhj.com/xy/github/gat.png" width="310">
-<img src="https://qiniu.zkbhj.com/xy/github/hwt.png" width="310">
-<img src="https://qiniu.zkbhj.com/xy/github/tst.png" width="310">
+<img src="https://qiniu.zkbhj.com/xy/github/gat.png?fr=1" width="310">
+<img src="https://qiniu.zkbhj.com/xy/github/hwt.png?fr=1" width="310">
+<img src="https://qiniu.zkbhj.com/xy/github/tst.png?fr=1" width="310">
 </p>
 
 ## 联系开发者
