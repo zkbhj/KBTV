@@ -1,5 +1,5 @@
 <p align="right">
-   <a href="https://xy.zkbhj.com?fr=github_readme" target="_blank">官方网站</a> | <a href="https://xy.zkbhj.com/channels" target="_blank">频道查询</a>
+   <a href="https://xy.zkbhj.com?fr=github_readme" target="_blank">官方网站</a> | <a href="https://xy.zkbhj.com/channels.html" target="_blank">频道查询</a>
 </p>
 
 
@@ -20,7 +20,7 @@
 5. **频道分类丰富**，主要包括央视、卫视、地方、港澳台、海外、特色、数字频道、IPv6专区、体育、电影、电视剧、动漫、游戏、音乐、教育、MV……
 6. 我们拒绝广告和购物台，做到绝对的**0广告、0购物台**
 7. **高度可用性**，由专人定期维护软件更新和直播源更新
-8. 官网持续更新，后续为大家提供**频道信息查询**等实用功能
+8. 官网持续更新，后续为大家提供**频道信息查询**等实用功能(2024年7月28日已增加)
 9. 更多详情，欢迎大家访问[西柚官网](https://xy.zkbhj.com)查询
 
 ## 部分频道展示   
