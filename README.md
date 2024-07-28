@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://xy.zkbhj.com?fr=github_readme" target="_blank"><img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/KBTV-GITHUB-LOGO.png" width="370" height="297" alt="kbtv logo"></a>
+  <a href="https://xy.zkbhj.com?fr=github_readme" target="_blank"><img src="https://qiniu.zkbhj.com/xy/github/KBTV-GITHUB-LOGO.png" width="370" height="297" alt="kbtv logo"></a>
 </p>
 
 # 西柚电视直播 - 一款超级私人1v1定制化电视直播软件
@@ -25,13 +25,13 @@
 
 ## 部分频道展示   
 <p align="center">
-<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E6%B8%AF%E6%BE%B3%E5%8F%B0.png" width="310">
-<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E7%89%B9%E8%89%B2%E5%8F%B0.png" width="310">
-<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%AE%A3%E4%BC%A0-%E6%B5%B7%E5%A4%96%E5%8F%B0.png" width="310">
+<img src="https://qiniu.zkbhj.com/xy/github/gat.png" width="310">
+<img src="https://qiniu.zkbhj.com/xy/github/hwt.png" width="310">
+<img src="https://qiniu.zkbhj.com/xy/github/tst.png" width="310">
 </p>
 
 ## 联系开发者
-<img src="https://raw.githubusercontent.com/zkbhj/KBTV/main/images/%E5%BC%80%E5%8F%91%E8%80%85%E5%BE%AE%E4%BF%A1.png">
+<img src="https://qiniu.zkbhj.com/xy/github/author.png">
 
 ## 比电视家更优秀的电视直播APP   
 
