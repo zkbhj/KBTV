@@ -34,20 +34,25 @@
 <img src="https://qiniu.zkbhj.com/xy/github/author.png">
 
 ## 求支持开发者
-希望大家多多支持，才能够让项目更好的走下去，让使用者收获更好更稳定的观看体验
-凡支持者可联系开发者领取西柚会员！
+希望大家多多支持，才能够让项目更好的走下去，让使用者收获更好更稳定的观看体验凡支持者可联系开发者领取西柚会员！
+<p align="center">
 <img src="https://qiniu.zkbhj.com/xy/github/wechatPay.jpg?fr=1" width="310">
 <img src="https://qiniu.zkbhj.com/xy/github/aliypay.jpg?fr=1" width="310">
+</p>
 
-也欢迎大家用数字货币支持，
-<img src="https://qiniu.zkbhj.com/common/ercode/btczf.jpg" width="310">
- </br>
+<p>
+   也欢迎大家用数字货币支持:
 BTC · 比特币支付
 钱包地址如下 1K7njE7bbDF1ntSdqpVLTZeKZ4iPn5vf4g
-<img src="https://qiniu.zkbhj.com/common/ercode/dogezf.jpg" width="310">
- </br>
+   </br>
 DOGE · 狗狗币支付
 钱包地址如下 DJfJ5xEgx2mzBDo6exG7wN7cP8qta7hnGp
+</p>
+</br>
+<p align="center">
+    <img src="https://qiniu.zkbhj.com/common/ercode/btczf.jpg" width="310">
+    <img src="https://qiniu.zkbhj.com/common/ercode/dogezf.jpg" width="310">
+</p>
 
 ## 比电视家更优秀的电视直播APP   
 
