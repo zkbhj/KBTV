@@ -37,7 +37,7 @@
 希望大家多多支持，才能够让项目更好的走下去，让使用者收获更好更稳定的观看体验凡支持者可联系开发者领取西柚会员！
 <p align="center">
 <img src="https://qiniu.zkbhj.com/xy/github/wechatPay.jpg?fr=1" width="310">
-<img src="https://qiniu.zkbhj.com/xy/github/aliypay.jpg?fr=1" width="310">
+<img src="https://qiniu.zkbhj.com/xy/github/aliypay.jpg?fr=2" width="310">
 </p>
 
 <p>也欢迎大家用数字货币支持:</p>
