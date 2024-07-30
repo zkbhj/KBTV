@@ -40,12 +40,12 @@
 <img src="https://qiniu.zkbhj.com/xy/github/aliypay.jpg?fr=1" width="310">
 </p>
 
-<p>
-   也欢迎大家用数字货币支持:
-BTC · 比特币支付
+<p>也欢迎大家用数字货币支持:</p>
+</br>
+<p>BTC · 比特币支付
 钱包地址如下 1K7njE7bbDF1ntSdqpVLTZeKZ4iPn5vf4g
-   </br>
-DOGE · 狗狗币支付
+</p>
+<p>DOGE · 狗狗币支付
 钱包地址如下 DJfJ5xEgx2mzBDo6exG7wN7cP8qta7hnGp
 </p>
 </br>
